@@ -1,0 +1,11 @@
+{
+  "name": "kafka-learn",
+  "version": "1.0.0",
+  "description": "Learning kafka from youtube",
+  "main": "index.js",
+  "author": "varshil-shah",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
